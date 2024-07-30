@@ -19,9 +19,6 @@ section {
     justify-content: center;
 }
 
-section {
-    display: block;
-    unicode-bidi: isolate;
+.chamada-texto {
+    margin-right: 5%;
 }
-
-a
